@@ -1,6 +1,6 @@
 # MochaSprouts
 
-We want to teach kids how to code and make it fun. And stuff.
+We want to teach kids how to code and make it fun.
 
 ### Get Involved
 
